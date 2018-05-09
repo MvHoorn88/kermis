@@ -6,6 +6,8 @@ public class AmusementRides {
 	public void Run() {
 		
 	}
-	
+	public void Sell() {
+		
+	}
 
 }

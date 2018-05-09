@@ -11,5 +11,8 @@ public class JumpAndSmile extends AmusementRides {
 		System.out.println("ride runs Jump and Smile");
 
 	}
+	public void Sell() {
+	System.out.println("you bought a ticket for the Jump and Smile");
 
+}
 }

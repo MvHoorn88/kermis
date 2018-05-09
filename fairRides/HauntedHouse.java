@@ -11,4 +11,7 @@ public class HauntedHouse extends AmusementRides {
 		System.out.println("ride runs Haunted House");
 
 	}
+	public void Sell() {
+		System.out.println("you bought a ticket for the Haunted House");
+	}
 }

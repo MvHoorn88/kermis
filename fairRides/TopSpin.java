@@ -11,6 +11,8 @@ public class TopSpin extends AmusementRides {
 		System.out.println("ride runs Top Spin");
 
 	}
-
+public void Sell() {
+	System.out.println("you bought a ticket for the Top Spin");
+}
 
 }

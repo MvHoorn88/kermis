@@ -10,4 +10,7 @@ public class BumperCars extends AmusementRides {
 		System.out.println("ride runs bumper cars");
 
 	}
+	public void Sell() {
+		System.out.println("you bought a ticket for the bumper cars");
+	}
 }

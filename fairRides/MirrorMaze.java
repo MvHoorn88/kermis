@@ -11,5 +11,7 @@ public class MirrorMaze extends AmusementRides {
 		System.out.println("ride runs Mirror Maze");
 
 	}
-
+	public void Sell() {
+	System.out.println("you bought a ticket for the Mirror Maze");
+	}
 }

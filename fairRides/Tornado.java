@@ -11,5 +11,7 @@ public class Tornado extends AmusementRides {
 		System.out.println("ride runs Tornadoo");
 
 	}
-
+public void Sell() {
+	System.out.println("you bought a ticket for the Tornadoo");
+}
 }
